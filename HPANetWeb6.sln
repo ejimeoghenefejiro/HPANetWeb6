@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPANetWeb6", "HPANetWeb6\HPANetWeb6.csproj", "{2FA44EA2-723C-4ACD-A4F3-A9AD158B2248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA44EA2-723C-4ACD-A4F3-A9AD158B2248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA44EA2-723C-4ACD-A4F3-A9AD158B2248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA44EA2-723C-4ACD-A4F3-A9AD158B2248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA44EA2-723C-4ACD-A4F3-A9AD158B2248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA541CB9-B6B0-4DFF-A012-F1DB1FC9ADD6}
+	EndGlobalSection
+EndGlobal
